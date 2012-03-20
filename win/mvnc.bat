@@ -1,0 +1,1 @@
+mvn clean %1

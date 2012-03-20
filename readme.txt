@@ -9,6 +9,8 @@ mvnciwt - mvn clean install with out tests
 mvnt - mvn test
 mvnt %1 - mvn test on single test file (eg : mvnt MyTest)
 mvnee - mvn eclipse:eclipse
+mvnc - mvn clean
+mvni - mvn install
 
 For Windows, copy all the batch files in to a folder and add the folder in classpath
 For linux/unix, you can copy the sh files into bin folder and give executable permission using commands in makeItExec.sh 
